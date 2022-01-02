@@ -2,7 +2,7 @@
   "name": "os-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://objectstorage.ap-sydney-1.oraclecloud.com/n/sd2h7qfdh0yo/b/os-react/o/index.html",
+  "homepage": "https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdqvb8t84cb7/b/os-react/o/index.html",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
