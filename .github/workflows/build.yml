@@ -1,4 +1,5 @@
 name: Hosting Static Website
+
 on:
   push:
     branches:
